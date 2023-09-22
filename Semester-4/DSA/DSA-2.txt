@@ -1,0 +1,3 @@
+Definitions
+(Data, Entity, information, Data types, Built in Data types, ADT, pointers in
+C), Concept of Data Structure, Overview of Data Structure
